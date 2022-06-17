@@ -14,6 +14,8 @@
 
 Each **Atmotube Pro** Bluetooth device has unique identifier - a MAC address (e.g., C1:2A:0D:AE:5A:C4).
 
+------
+
 ## Installation Overview
 
 - Install Android mobile application for Atmotube from Google Play Store
@@ -21,6 +23,8 @@ Each **Atmotube Pro** Bluetooth device has unique identifier - a MAC address (e.
 - Configure participant id as device name
 - Configure app settings so that data recording is consistent
 - Place a sticker on back of device to label the unit
+
+-------
 
 ## Step-by-Step Walkthrough
 
@@ -54,6 +58,8 @@ Each **Atmotube Pro** Bluetooth device has unique identifier - a MAC address (e.
 10. Enter ID located on sticker into the device checkout log
     1. <u>*Device checkout log link coming soon!*</u>
 
+------
+
 ## Troubleshooting
 
 1. **Problem:** You are seeing a screen with no Atmotube devices available.
@@ -82,6 +88,8 @@ Each **Atmotube Pro** Bluetooth device has unique identifier - a MAC address (e.
       2. If unpairing has been successful, Atmotube's LED light will blink blue 10 times.
 
 For additional troubleshooting, please contact Dr. Nelson Roque at [nelson.roque@ucf.edu](nelson.roque@ucf.edu).
+
+----
 
 ## Manufacturer's Device Manual
 
