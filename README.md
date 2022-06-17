@@ -4,7 +4,7 @@
 
 **Atmotube PRO** was created to raise awareness about both indoor and outdoor air quality, so you can make the right choices every day and live a healthier life.
 
-![device]('img/device.png')
+![device](img/device.png)
 
 **Atmotube PRO** detects **PM1**, **PM2.5**, and **PM10** pollutants, like dust, pollen, soot, and mold, plus a wide range of **Volatile Organic Compounds (VOCs)**. All in real time
 
